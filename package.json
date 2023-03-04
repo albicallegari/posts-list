@@ -1,5 +1,6 @@
 {
-  "name": "blog-app",
+  "name": "posts-list",
+  "homepage": "https://albicallegari.github.io/posts-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
