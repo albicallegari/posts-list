@@ -1,0 +1,20 @@
+{
+  "home": {
+    "open": "Open",
+    "close": "Close",
+    "confirm": "Confirm",
+    "title": "Simple React Typescript Posts List",
+    "formMessage": "Insert New Post",
+    "formTitleDesc":"Enter a title that can describe your post",
+    "formContentDesc":"Enter the content of your post",
+    "formUserIdDesc":"Enter the User ID",
+    "formSubmit": "Post it",
+    "formCancel": "Cancel",
+    "formError": "Sorry, you are missing to fill some field"
+  },
+  "posts": {
+    "title": "Posts",
+    "addPost": "Add post",
+    "delete": "Delete"
+  }
+}
