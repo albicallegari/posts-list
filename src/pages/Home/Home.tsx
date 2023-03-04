@@ -109,7 +109,7 @@ const Home = () => {
           {getTranslatedLabel("home.title")}
         </h1>
       </div>
-      <div className="absolute top-24 md:top-20">
+      <div className="absolute top-24 md:top-20 w-full">
         <Posts />
       </div>
       <Dialog
